@@ -100,3 +100,4 @@ Paste Inputting is an iOS keyboard app that used to input words in pasteboard.
 # history-calculator-with-clocks.github.io
 # history-calculator-with-clocks.github.io
 # manage-staff-infos.github.io
+# moral-of-the-story-wonders.github.io
